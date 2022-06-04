@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -692,7 +695,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: white!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -737,6 +740,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 20px;
 }
 
 .portfolio-thumb {
@@ -767,7 +771,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #161f3c;
 }
 
 .bgc-atomic-tangerine {
@@ -1036,3 +1040,4 @@ h4 {
         text-align: center;
     }
 }
+
