@@ -6,9 +6,23 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+/*modif image en quote*/
+/*122-125*/
+.blockquote {
+    font-size: 20px;
+}
+.figcaption {
+    font-size: 20px;
+}
+/*83*/ /*151*/
+.size {
+    font-size: 18px;
+}
 
 
-
+.text-center {
+    font-size: 15px;
+}
 
 a,
 button {
