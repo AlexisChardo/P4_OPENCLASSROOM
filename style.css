@@ -1055,3 +1055,16 @@ h4 {
     }
 }
 
+
+/*taille image version mobile*/
+@media (max-width : 767px) {
+    .col-sm-6 {
+        max-width: 100%;
+    }
+    .imgresponsive {
+        max-width: 100%;
+    }
+    .img3and4 {
+        width: 100%;
+    }
+}
